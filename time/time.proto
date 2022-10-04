@@ -1,0 +1,2 @@
+package time;
+option go_package = "https://github.com/katrinesando/DSysExcercise;time";
